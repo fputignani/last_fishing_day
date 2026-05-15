@@ -1,0 +1,20 @@
+# Unreal Engine
+Unreal/LFD/Binaries/
+Unreal/LFD/DerivedDataCache/
+Unreal/LFD/Intermediate/
+Unreal/LFD/Saved/
+Unreal/LFD/.vs/
+Unreal/LFD/.vscode/
+*.sln
+*.xcodeproj
+*.opensdf
+*.sdf
+*.suo
+*.opensdf
+*.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
